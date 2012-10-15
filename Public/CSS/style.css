@@ -1,0 +1,95 @@
+
+body {background-color: white;}
+
+h1 { font-family: "Times new roman", serif;
+	color: #40A497; 
+	font-size: 50px; 
+	text-align: center; 
+	border: 15px dotted #40A497; 
+	background-color: white;}
+
+#image {display: block;margin:0 auto; height :70px; width: 70px;
+padding-bottom: 0px;
+margin-left: 0px;}
+
+#photomoi {position : absolute; 
+	margin-right: 200px;
+	margin-left: 600px;
+text-align: center;
+background-color: white; 
+font-size: 30px;
+color: #40A497; }
+
+h2 { 
+	text-align: center;
+	background-color : white; 
+	font-size: 30px;
+	color:#40A497;
+	text-decoration: underline; 
+	border: 3px dotted #40A497;
+	position:absolute;
+margin-top:1px; 
+	margin-right:1200px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
+
+	h3{text-align: center;
+	background-color : white; 
+	font-size: 30px;
+	color:#40A497;
+	text-decoration: underline; 
+	border: 3px dotted #40A497;
+margin-top:0px; 
+	margin-right:0px; 
+	margin-left: 0px; 
+	margin-bottom: 0px;}
+
+h4 { 
+	text-align: center;
+	background-color: white;
+	font-size: 30px;
+color:#40A497;}	
+
+h5 {
+	text-align: center;
+	background-color: white;
+	font-size: 20px;
+color: #40A497;}
+
+#menu { position : absolute;
+	text-align: center;
+font-size: 30px;
+color:#40A497;
+border: 3px dotted #40A497;
+margin-top: 0px;
+margin-right: 0px;
+margin-left: 1200px;
+margin-bottom: 0px;}	
+
+#formation {text-align: left;
+	font-size: 20px; 
+	color: #0D6156;
+margin-top:0px; 
+	margin-right:0px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
+#exppro {font-size: 20px; text-align: left;
+	color:#0D6156;margin-top:0px; 
+	margin-right:50px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
+#comp {font-size: 20px; text-align: left;
+	color:#0D6156 ;margin-top:0px; 
+	margin-right:50px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
+#activites {font-size: 20px; 
+	color:#0D6156;margin-top:0px; text-align: left;
+	margin-right:50px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
+#links {font-size: 20px; 
+	color:#0D6156 ;margin-top:0px; text-align: left;
+	margin-right:50px; 
+	margin-left: 50px; 
+	margin-bottom: 0px;}
